@@ -22,7 +22,7 @@ A simple web application that allows users to enroll students and store their in
    git clone https://github.com/your-username/JSON_P_DB.git
    ```
 
-2. Open the `index.html` file in a web browser.
+2. Open the `form.html` file in a web browser.
 
 3. Fill out the student enrollment details in the form fields provided.
 
